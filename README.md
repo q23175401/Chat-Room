@@ -1,11 +1,15 @@
 用python socket寫的匿名聊天室
 
 作者:
+  
   Socket server client部分 林季劼
+  
   PyQT UI 操作部分 陳建欣
 
 說明:
+  
   chat_s_new 為 聊天室的server
+  
   Client是 client端
 
 功能:
