@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>boy_icon.png</file>
+    <file>boy_icon_choosen.png</file>
+    <file>girl_icon.png</file>
+    <file>girl_icon_choosen.png</file>
+    <file>talking.png</file>
+    <file>talking_2.png</file>
+    <file>boy.png</file>
+    <file>girl.png</file>
+  </qresource>
+</RCC>
